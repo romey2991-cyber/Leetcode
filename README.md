@@ -1,2 +1,1 @@
-# Leetcode
-My Leetcode solutions and explanations
+一个爱编程的人
